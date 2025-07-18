@@ -1,0 +1,27 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: solid black 2px;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 65px;
+}
+
+.row{
+
+    margin: 8px;
+}
+
+.row input{
+    margin: 0;
+    padding: 10px 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 290px;
+}
